@@ -1,0 +1,25 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=V1.0
+*Date=16:10:01
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;57.6066;-53.8944;0;Bottom;VinM
+2;;THT;34.2386;-4.2374;90;Bottom;J1
+3;;;11.9936;-44.5434;0;Bottom;NRF24L01+
+4;;THT;6.29864;-19.4774;180;Bottom;J3
+5;;THT;57.6066;-43.7344;0;Bottom;Motor
+6;;;53.5956;-5.46564;90;Bottom;TXT1
+7;;THT;57.6066;-5.6344;0;Bottom;VinA
+8;;;31.6902;-16.9374;90;Bottom;Arduino Nano V3.0
+9;;;53.8712;-53.9822;-90;Bottom;TXT1
+10;;;39.3186;-41.0674;180;Bottom;TB6612
